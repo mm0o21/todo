@@ -21,7 +21,7 @@ class EditViewController: UIViewController, UITextFieldDelegate {
         
         //textviewの見た目
         yarukoto.layer.borderWidth = 0.7
-        yarukoto.layer.borderColor = UIColor(hex: "dcdcdc",alpha: 0.8).cgColor
+        yarukoto.layer.borderColor = UIColor(hex: "dcdcdc",alpha: 1.0).cgColor
         yarukoto.layer.cornerRadius = 10.0
         
         //日付のやつ関連
